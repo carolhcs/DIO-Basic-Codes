@@ -1,8 +1,30 @@
-# DIO-Basic-Codes
-DIO basic codes challenges 
+Claro! Aqui está uma versão revisada, organizada, traduzida e com uma formatação mais clara para o seu README:
 
-Repositório com exercicios e desafios basicos dos cursos da DIO
+---
 
-- Classificação de Personagens: [(Link)https://github.com/carolhcs/DIO-Basic-Codes/blob/main/Basic-Codes-algorithms/HeroLevelClassificator.cs]
-- Calculadora de partidas raqueadas: [(Link)https://github.com/carolhcs/DIO-Basic-Codes/blob/main/Basic-Codes-algorithms/rankGame.py]
-- 
+# DIO - Basic Code Challenges
+
+This repository contains basic programming exercises and challenges from DIO (Digital Innovation One) courses.
+
+## 📌 Contents
+
+* **Hero Level Classifier**
+  Classifies a hero based on their experience points (XP).
+  🔗 [HeroLevelClassificator.cs](https://github.com/carolhcs/DIO-Basic-Codes/blob/main/Basic-Codes-algorithms/HeroLevelClassificator.cs)
+
+* **Ranked Game Calculator**
+  Calculates the player's ranking status based on victories and defeats.
+  🔗 [rankGame.py](https://github.com/carolhcs/DIO-Basic-Codes/blob/main/Basic-Codes-algorithms/rankGame.py)
+
+## 📚 About the Exercises
+
+These exercises are ideal for beginners who want to practice fundamental programming concepts such as:
+
+* Variables and data types
+* Conditional statements
+* Loops and basic logic
+* Input/output operations
+
+---
+
+Se quiser, posso também adicionar uma seção de instruções para rodar os códigos localmente ou contribuir com o projeto. Deseja isso também?
