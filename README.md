@@ -23,4 +23,3 @@ These exercises are ideal for beginners who want to practice fundamental program
 
 ---
 
-Se quiser, posso também adicionar uma seção de instruções para rodar os códigos localmente ou contribuir com o projeto. Deseja isso também?
