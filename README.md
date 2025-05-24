@@ -1,7 +1,3 @@
-Claro! Aqui está uma versão revisada, organizada, traduzida e com uma formatação mais clara para o seu README:
-
----
-
 # DIO - Basic Code Challenges
 
 This repository contains basic programming exercises and challenges from DIO (Digital Innovation One) courses.
